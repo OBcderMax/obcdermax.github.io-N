@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://obcdermax.github.io/obcdermax.github.io-N</id>
+    <id>https://obcdermax.github.io/obcdermax.github.io-N/</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-07T03:33:45.703Z</updated>
+    <updated>2021-09-07T03:35:41.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://obcdermax.github.io/obcdermax.github.io-N"/>
+    <link rel="alternate" href="https://obcdermax.github.io/obcdermax.github.io-N/"/>
     <link rel="self" href="https://obcdermax.github.io/obcdermax.github.io-N/atom.xml"/>
     <subtitle>Eeeeeexcelsior!</subtitle>
     <logo>https://obcdermax.github.io/obcdermax.github.io-N/images/avatar.png</logo>
@@ -17,7 +17,7 @@
         </link>
         <updated>2021-09-06T08:27:59.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<p>无标题博文测试<img src="https://obcdermax.github.io/obcdermax.github.io-N/post-images/1630941741763.JPG" alt="" loading="lazy"></p>
+<p>无标题博文测试<img src="https://obcdermax.github.io/obcdermax.github.io-N//post-images/1630941741763.JPG" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -27,7 +27,7 @@
         </link>
         <updated>2021-09-06T08:14:58.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/obcdermax.github.io-N/post-images/1630916113184.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://obcdermax.github.io/obcdermax.github.io-N//post-images/1630916113184.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
