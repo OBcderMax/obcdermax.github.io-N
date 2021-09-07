@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://obcdermax.github.io/obcdermax.github.io-P/</id>
     <title>Alpha Test 2021-09</title>
-    <updated>2021-09-07T04:32:05.121Z</updated>
+    <updated>2021-09-07T06:31:07.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://obcdermax.github.io/obcdermax.github.io-P/"/>
     <link rel="self" href="https://obcdermax.github.io/obcdermax.github.io-P/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://obcdermax.github.io/obcdermax.github.io-P/images/avatar.png</logo>
     <icon>https://obcdermax.github.io/obcdermax.github.io-P/favicon.ico</icon>
     <rights>All rights reserved 2021, Alpha Test 2021-09</rights>
+    <entry>
+        <title type="html"><![CDATA[页面指南]]></title>
+        <id>https://obcdermax.github.io/obcdermax.github.io-P/post/ye-mian-zhi-nan/</id>
+        <link href="https://obcdermax.github.io/obcdermax.github.io-P/post/ye-mian-zhi-nan/">
+        </link>
+        <updated>2021-09-07T06:29:25.000Z</updated>
+        <summary type="html"><![CDATA[<ul>
+<li>理想的操作逻辑</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>理想的操作逻辑</li>
+</ul>
+<!-- more -->
+<ol>
+<li>进入<a href="/">首页</a> 。</li>
+<li>Blog索引页面为置顶状态。</li>
+<li>内容分类。
+<ul>
+<li>在<a href="/">首页</a> 浏览所有默认内容。</li>
+<li>进入主菜单<a href="/tags/">标签</a> 页面选择具体分类进行浏览。</li>
+<li><a href="/tag/MO24dYXAE/">#Timeline</a> 为主要博文</li>
+<li><a href="/tag/7MJHXoe4_/">#Test</a> 为测试内容</li>
+<li><a href="/tag/uPe_Yfo11/">#Pacth</a> 为修订内容</li>
+<li><a href="/tag/8v5aeFqYV/">#Index</a> 为索引内容</li>
+<li><a href="/tag/pcRTa4GA2/">#Day1</a> 为建站日发布内容</li>
+<li>更多内容及分类仍在建设中....详情见<a href="/tags/">标签</a> 菜单</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://obcdermax.github.io/obcdermax.github.io-P/post/2/</id>
@@ -151,19 +183,6 @@ YYYY-MM-DD HH:mm:ss</li>
 <li>发布时间(北京时间)<br>
 2021-09-04 22:20+n秒</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog索引]]></title>
-        <id>https://obcdermax.github.io/obcdermax.github.io-P/post/suo-yin/</id>
-        <link href="https://obcdermax.github.io/obcdermax.github.io-P/post/suo-yin/">
-        </link>
-        <updated>2021-09-03T05:36:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>📑作为博客的索引页面，优化阅读体验</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>📑作为博客的索引页面，优化阅读体验</p>
-<!-- more -->
-<p><a href="/post/ye-mian-zhi-nan/">页面指南</a></p>
 ]]></content>
     </entry>
 </feed>
